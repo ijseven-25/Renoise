@@ -228,4 +228,4 @@ Renoise is available as a **full free version** with all features unlocked and r
 Get started with your music creation today! Download **Renoise free** and unlock your musical potential now.
 
 ---
-**Last updated:** 2026-10-18 20:07:01 UTC
+**Last updated:** 2026-10-18 22:46:19 UTC
